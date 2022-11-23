@@ -1,0 +1,63 @@
+.t {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  background-color: maroon;
+  padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+.r {
+  color: white;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 60px;
+  padding-left: 950px;
+}
+.b {
+  color: white;
+  background-color: dimgray;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-line: underline;
+  white-space: pre;
+  padding-top: 25px;
+  padding-right: 60px;
+  padding-bottom: 25px;
+  padding-left: 1212px;
+}
+.i {
+  padding-left: 15px;
+}
+.d {
+}
+.g {
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.q {
+  padding-left: 30px;
+  padding-right: 510px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding-bottom: 30px;
+}
+.v {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 12px;
+  background-color: dimgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.s {
+  display: inline;
+}
